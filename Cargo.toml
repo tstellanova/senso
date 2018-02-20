@@ -1,0 +1,6 @@
+[package]
+name = "senso"
+version = "0.1.0"
+authors = ["Todd Stellanova <todd+github@droneflow.com>"]
+
+[dependencies]
